@@ -1,0 +1,45 @@
+.products {
+    padding: 5rem;
+}
+
+#AllProducts {
+    padding: 0.5rem;
+    min-height: 100vh;
+}
+
+.show-more,
+.show-outline-more {
+    width: 10rem;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
+}
+
+.show-more {
+    background-color: #FFD700;
+    color: #003366;
+    border: none;
+}
+
+.show-outline-more {
+    background-color: transparent;
+    color: #ffe553;
+    border: 2px solid #FFD700;
+}
+
+.show-more:hover,
+.show-outline-more:hover {
+    background-color: #FFD700;
+    color: #003366;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.show-more:active,
+.show-outline-more:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}

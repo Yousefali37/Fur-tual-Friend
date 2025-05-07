@@ -1,0 +1,95 @@
+/* Set custom scrollbar */
+html {
+  scrollbar-width: none;
+}
+
+body {
+  font-family: 'Poppins', 'Roboto', sans-serif; /* Changed to a friendlier font for pet care */
+  margin: 0;
+  padding: 0;
+  background-color: #F0F8FF; /* Light background to give a clean and calming effect */
+  color: #003366; /* Dark text color for contrast */
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+blockquote {
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
+}
+
+#root {
+  background-color: #87CEEB;
+  color: #003366;
+}
+
+/* Button styles */
+.go-back-btn {
+  position: fixed;
+  width: 3rem;
+  height: 3rem;
+  left: 1rem;
+  top: 0.6rem;
+  background-color: #FFD700;
+  color: #003366;
+  border: none;
+  border-radius: 50%;
+  padding: 0.5rem;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+/* Hover effect */
+.go-back-btn:hover {
+  background-color: #003366;
+  color: #FFD700;
+  transform: scale(1.1);
+  box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Active state */
+.go-back-btn:active {
+  transform: scale(0.95);
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsive adjustments for mobile (max-width: 576px) */
+@media (max-width: 576px) {
+  body {
+    width: 100vw; /* Full viewport width */
+  }
+
+  .go-back-btn {
+    width: 2.5rem;
+    height: 2.5rem;
+    font-size: 18px;
+    left: 0.5rem;
+    top: 0.5rem;
+  }
+}
+
+/* Responsive adjustments for tablets (max-width: 768px) */
+@media (max-width: 768px) {
+
+  .go-back-btn {
+    width: 2.8rem;
+    height: 2.8rem;
+    font-size: 19px;
+  }
+}
+
+/* Responsive adjustments for large tablets (max-width: 976px) */
+@media (max-width: 976px) {
+  .go-back-btn {
+    width: 3rem;
+    height: 3rem;
+    font-size: 20px;
+  }
+}

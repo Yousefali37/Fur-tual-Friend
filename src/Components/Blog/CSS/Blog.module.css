@@ -1,0 +1,51 @@
+.blog {
+    background-color: #FFFFFF;
+    padding: 5rem;
+}
+
+#AllBlogs {
+    background-color: #FFFFFF;
+    padding: 0.5rem;
+    min-height: 100vh;
+}
+
+.featured-posts h2 {
+    font-size: 2rem;
+    color: #003366;
+    margin-bottom: 2rem;
+}
+
+.card {
+    margin-bottom: 2rem;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.card-title {
+    font-size: 1.3rem;
+    color: #003366;
+}
+
+.card-text {
+    font-size: 1rem;
+    color: #555;
+}
+
+.btn-primary {
+    width: 100%;
+    background-color: transparent;
+    color: rgb(110, 199, 235);
+    padding: 10px;
+    font-weight: bold;
+    border: 2px solid rgb(110, 199, 235);
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.btn-primary:hover {
+    background-color: #2487a5;
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}

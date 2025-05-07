@@ -1,0 +1,38 @@
+[
+    {
+        "ques": "What are your pet care services?",
+        "answer": "We offer grooming, training, boarding, and pet-sitting services."
+    },
+    {
+        "ques": "Where can I find pet food and supplies?",
+        "answer": "You can find pet food and supplies at our store located at 123 Main Street, City Center or on our online shop."
+    },
+    {
+        "ques": "How can I schedule a grooming appointment?",
+        "answer": "You can schedule a grooming appointment by calling us at +123456789 or booking online through our website."
+    },
+    {
+        "ques": "Do you offer vaccinations for pets?",
+        "answer": "Yes, we offer vaccinations for dogs and cats. Please contact our clinic for more details."
+    },
+    {
+        "ques": "Can I get advice on pet training?",
+        "answer": "Yes, we have professional trainers available to provide personalized training advice and sessions."
+    },
+    {
+        "ques": "How do I care for my pet's dental health?",
+        "answer": "Regular brushing, dental chews, and professional cleanings are essential for maintaining your pet's dental health."
+    },
+    {
+        "ques": "What are the benefits of pet insurance?",
+        "answer": "Pet insurance can help cover the cost of unexpected medical bills and provide peace of mind in case of emergencies."
+    },
+    {
+        "ques": "How do I know if my pet is overweight?",
+        "answer": "Our vet can assess your pet’s weight and recommend a healthy diet and exercise plan."
+    },
+    {
+        "ques": "What should I do if my pet gets sick?",
+        "answer": "If your pet shows signs of illness, please contact our clinic immediately for an appointment with our veterinarian."
+    }
+]

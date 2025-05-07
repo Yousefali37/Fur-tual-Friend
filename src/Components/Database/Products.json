@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Halloween Costumes",
+        "price": 45,
+        "img": "Pets with halloween costumes-amico.png"
+    },
+    {
+        "title": "Dog House",
+        "price": 25,
+        "img": "doghouse.png"
+    },
+    {
+        "title": "Fish Bowl",
+        "price": 200,
+        "img": "Fish bowl-bro.png"
+    },
+    {
+        "title": "Dog Mouse",
+        "price": 70,
+        "img": "Muzzle-bro.png"
+    },
+    {
+        "title": "Fish Bowl Pana",
+        "price": 50,
+        "img": "Fish bowl-pana.png"
+    },
+    {
+        "title": "Pet Care Kit",
+        "price": 30,
+        "img": "pet care-cuate.png"
+    },
+    {
+        "title": "Dog Food",
+        "price": 30,
+        "img": "dogfood.jpg"
+    },
+    {
+        "title": "Fish Bowl",
+        "price": 30,
+        "img": "Fish bowl-cuate.png"
+    },
+    {
+        "title": "Dog Food",
+        "price": 30,
+        "img": "Dog-Food.png"
+    }
+]

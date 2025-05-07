@@ -1,0 +1,28 @@
+[
+    {
+        "img": "turtle.png",
+        "title": "Caring for Your Pet Turtle: Essential Tips",
+        "description": "Learn how to care for your pet turtle, from diet to habitat...",
+        "sections": [
+            {
+                "title": "Introduction",
+                "content": "Turtles make wonderful pets, but they do have specific needs. In this post, we'll cover the basics..."
+            }
+        ],
+        "created_at": "2024-12-24T00:00:00Z",
+        "updated_at": "2024-12-24T00:00:00Z"
+    },
+    {
+        "img": "chef-cat-mascot-logo-design.png",
+        "title": "Understanding Your Cat’s Dietary Needs",
+        "description": "Find out how to select the right food for your cat's needs...",
+        "sections": [
+            {
+                "title": "Introduction to Cat Nutrition",
+                "content": "Understanding your cat's dietary needs is essential for keeping them healthy and happy..."
+            }
+        ],
+        "created_at": "2024-12-24T00:00:00Z",
+        "updated_at": "2024-12-24T00:00:00Z"
+    }
+]

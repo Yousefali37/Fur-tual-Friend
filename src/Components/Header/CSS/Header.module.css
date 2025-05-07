@@ -1,0 +1,55 @@
+.navbar {
+    padding: 1rem 0rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(135, 206, 235, 0.9);
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    z-index: 1000;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    margin-left: 0.5rem;
+    cursor: pointer;
+}
+
+.nav-link {
+    color: #003366;
+    font-weight: 500;
+    padding: 8px 12px;
+}
+
+.nav-link:hover {
+    background-color: rgba(100, 179, 220, 0.3);
+    border-radius: 5px;
+}
+
+.mirrored-icon {
+    transform: rotateY(180);
+    display: inline-block;
+    transition: transform 0.3s ease, color 0.3s ease, background-color 0.3s ease;
+    font-size: 1.5rem;
+    color: #333;
+    background-color: transparent;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.mirrored-icon-container {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    border: 1px solid #ddd;
+    border-radius: 50%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+}
+
+.mirrored-icon-container:hover {
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+}

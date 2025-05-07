@@ -1,0 +1,24 @@
+[
+    {
+        "username": "JohnDoe",
+        "email": "johndoe@example.com",
+        "password": "hashed_password123",
+        "dateofbirth": "1990-01-01",
+        "bio": "Software Developer and Tech Enthusiast.",
+        "header_img": "header1.jpg",
+        "profile_img": "profile1.jpg",
+        "created_at": "2024-12-24T13:00:00Z",
+        "updated_at": "2024-12-24T13:00:00Z"
+    },
+    {
+        "username": "JaneDoe",
+        "email": "janedoe@example.com",
+        "password": "hashed_securepass456",
+        "dateofbirth": "1992-05-15",
+        "bio": "Content Writer and Blogger.",
+        "header_img": "header2.jpg",
+        "profile_img": "profile2.jpg",
+        "created_at": "2024-12-24T13:00:00Z",
+        "updated_at": "2024-12-24T13:00:00Z"
+    }
+]
